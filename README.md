@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# ❤️ Heart Disease Prediction using Machine Learning.
 
 🔗 **Live Demo:** https://heart-disease-prediction-byowaiskazi.streamlit.app/
 
